@@ -4,12 +4,12 @@ using namespace std;
 int main(){
 	cout<<" calculater created."<<endl;
 	cout<<"**********CALCULATOR*********"<<endl;
-	int x,y,z;
+	int x,y;
 	cout<<"Enter  first number"<<endl;
 	cin>>x;
 	cout<<"Enter  second number"<<endl;
 	cin>>y;
-	char c;
+	char z;
 	cout<<"Select any operation(+,-,*,/)"<<endl;
 	cin>>z;
 	switch(z){
